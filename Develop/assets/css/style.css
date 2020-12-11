@@ -42,6 +42,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/*Text changes*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -61,13 +62,6 @@ p {
     background-position: center;
 }
 
-/* Added main element*/
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
 /*floats specifications*/
 .float-left {
     float: left;
@@ -77,6 +71,13 @@ main {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+/* Added main element*/
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 /*CSS styling for sidebar/aside elements*/
@@ -114,6 +115,8 @@ main {
 .aside {
     margin-bottom: 32px;
     color: black;
+    /*Added position right but having an issue not having 'aside' element move down*/
+    position: right; 
 }
 
 .aside h3{
