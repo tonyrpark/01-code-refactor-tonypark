@@ -9,11 +9,11 @@ There is nothing to install, please see the "index.html' and 'style.css' to see 
 
 ## Versioning
 
+Version 1.0.0.0 -- December 11, 2020
+
 ## Authors
 
 * **Tony Park** - [tonyrpark](https://github.com/tonyrpark)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
